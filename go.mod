@@ -1,4 +1,4 @@
-module github.com/nthnieljson/gin-rest-api.git
+module github.com/nthnieljson/gin-rest-api
 
 go 1.16
 
